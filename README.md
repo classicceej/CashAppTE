@@ -1,3 +1,4 @@
+This is a project that was assigned to me by Tech Elevator in Spring 2021. It is currently a WIP becuase there are problems with the accept transfer method and the JUNIt tests.  I worked on this with Amanda Hartwick who is a stellar coder and an MVP.  Reach out to Amanda!
 # Module 2 Capstone - TEnmo
 
 Congratulations—you've landed a job with TEnmo, whose product is an online payment service for transferring "TE bucks" between friends. However, they don't have a product yet. You've been tasked with writing a RESTful API server and command-line application.
